@@ -1,5 +1,6 @@
 # Git-Github-study
 # 깃과 깃허브 공부
+이용한 강의: 인프런 git과 github https://www.inflearn.com/course/git-and-github/dashboard
 
 ## git 기초 명령어
 - clone : 깃허브 파일을 복사해 온다
